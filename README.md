@@ -1,1 +1,1 @@
-# NUEXUS-Technologies-AI-Internship-
+# Employee Attrition Prediction 
